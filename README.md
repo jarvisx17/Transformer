@@ -2,7 +2,7 @@
 ### English - French Translator using Transformer with Tensorflow.
 
 
-<img src="language.jpg" width="100%" height="auto">
+<img src="language.jpg" width="100%" height="500px">
 
 
 ### Author: Alvaro Henriquez
