@@ -1,6 +1,9 @@
 # Language-translation-with-transformer-model
 ### English - French Translator using Transformer with Tensorflow.
-![language](language.jpg)
+
+
+<img src="language.jpg" width="100%" height="auto">
+
 
 ### Author: Alvaro Henriquez
 
